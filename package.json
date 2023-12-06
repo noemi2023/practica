@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/noemi2023/practica/issues"
   },
-  "homepage": "https://github.com/noemi2023/practica#readme"
+  "homepage": "https://github.com/noemi2023/practica#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
