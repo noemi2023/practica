@@ -1,0 +1,19 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noemi2023/practica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noemi2023/practica/issues"
+  },
+  "homepage": "https://github.com/noemi2023/practica#readme"
+}
